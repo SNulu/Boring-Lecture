@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  color: #353;
+  font-size: 85%;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 3rem;
+}
+
+p {
+
+}
+
+.intro {
+  font-size: 200%;
+  color: #0ac;
+}
